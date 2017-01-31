@@ -6,7 +6,7 @@
 
 <br>
 
-Welcome to your name's CPS 5920 mini online store.
+Welcome to your Jonathan Coronel's CPS 5920 mini online store.
 
 <UL style="margin:0;">
 
